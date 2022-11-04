@@ -1,7 +1,7 @@
 {
-	"name": "Sprite2",
+	"name": "blue_land",
 	"plugin-id": "Sprite",
-	"sid": 170557828943842,
+	"sid": 633406724629658,
 	"isGlobal": false,
 	"instanceVariables": [],
 	"behaviorTypes": [],
@@ -11,40 +11,20 @@
 			{
 				"frames": [
 					{
-						"width": 128,
-						"height": 128,
+						"width": 1024,
+						"height": 1024,
 						"originX": 0.5,
 						"originY": 0.5,
 						"originalSource": "",
 						"exportFormat": "lossless",
 						"exportQuality": 0.8,
-						"imageSpriteId": 2925135,
-						"collisionPoly": {
-							"points": [
-								0.0234375,
-								0.0234375,
-								0.5,
-								0.21875,
-								0.7578125,
-								0.234375,
-								0.6484375,
-								0.5,
-								0.5546875,
-								0.5546875,
-								0.5,
-								0.59375,
-								0,
-								0.9921875,
-								0,
-								0.5
-							]
-						},
+						"imageSpriteId": 9824372,
 						"useCollisionPoly": true,
 						"duration": 1
 					}
 				],
-				"sid": 325753644752474,
-				"name": "Animation 1",
+				"sid": 309134339873266,
+				"name": "Default",
 				"isLooping": false,
 				"isPingPong": false,
 				"repeatCount": 1,

@@ -1,0 +1,197 @@
+{
+	"name": "Player",
+	"plugin-id": "Sprite",
+	"sid": 112351796422539,
+	"isGlobal": false,
+	"instanceVariables": [],
+	"behaviorTypes": [
+		{
+			"behaviorId": "Platform",
+			"name": "Platform",
+			"sid": 640460956769524
+		},
+		{
+			"behaviorId": "scrollto",
+			"name": "ScrollTo",
+			"sid": 171008300423272
+		},
+		{
+			"behaviorId": "Flash",
+			"name": "Flash",
+			"sid": 773595889567330
+		}
+	],
+	"effectTypes": [],
+	"animations": {
+		"items": [
+			{
+				"frames": [
+					{
+						"width": 133,
+						"height": 184,
+						"originX": 0.5,
+						"originY": 0.5,
+						"originalSource": "",
+						"exportFormat": "lossless",
+						"exportQuality": 0.8,
+						"imageSpriteId": 7202363,
+						"collisionPoly": {
+							"points": [
+								0.15037593984962405,
+								0.10869565217391304,
+								0.5,
+								0,
+								0.849624060150376,
+								0.10326086956521739,
+								0.9473684210526315,
+								0.5,
+								0.7744360902255639,
+								0.8369565217391305,
+								0.5,
+								0.9021739130434783,
+								0.18796992481203006,
+								0.8586956521739131,
+								0.06015037593984962,
+								0.5
+							]
+						},
+						"useCollisionPoly": true,
+						"duration": 1
+					}
+				],
+				"sid": 947518122741769,
+				"name": "idle",
+				"isLooping": false,
+				"isPingPong": false,
+				"repeatCount": 1,
+				"repeatTo": 0,
+				"speed": 5
+			},
+			{
+				"frames": [
+					{
+						"width": 134,
+						"height": 190,
+						"originX": 0.5,
+						"originY": 0.5,
+						"originalSource": "",
+						"exportFormat": "lossless",
+						"exportQuality": 0.8,
+						"imageSpriteId": 3001379,
+						"collisionPoly": {
+							"points": [
+								0.15671641791044777,
+								0.11052631578947368,
+								0.5,
+								0,
+								0.8507462686567164,
+								0.1,
+								0.9402985074626866,
+								0.5,
+								0.8656716417910447,
+								0.9052631578947369,
+								0.5,
+								0.8894736842105263,
+								0.23880597014925373,
+								0.8263157894736842,
+								0.08208955223880597,
+								0.5
+							]
+						},
+						"useCollisionPoly": true,
+						"duration": 1
+					},
+					{
+						"width": 140,
+						"height": 195,
+						"originX": 0.5,
+						"originY": 0.5,
+						"originalSource": "",
+						"exportFormat": "lossless",
+						"exportQuality": 0.8,
+						"imageSpriteId": 6092437,
+						"collisionPoly": {
+							"points": [
+								0.16428571428571428,
+								0.11794871794871795,
+								0.5,
+								0,
+								0.85,
+								0.10256410256410256,
+								0.9214285714285714,
+								0.5,
+								0.75,
+								0.8205128205128205,
+								0.5,
+								0.9435897435897436,
+								0.2642857142857143,
+								0.8051282051282052,
+								0.11428571428571428,
+								0.5
+							]
+						},
+						"useCollisionPoly": true,
+						"duration": 1
+					}
+				],
+				"sid": 304336599280140,
+				"name": "walk",
+				"isLooping": true,
+				"isPingPong": false,
+				"repeatCount": 1,
+				"repeatTo": 0,
+				"speed": 5
+			},
+			{
+				"frames": [
+					{
+						"width": 135,
+						"height": 191,
+						"originX": 0.5,
+						"originY": 0.5,
+						"originalSource": "",
+						"exportFormat": "lossless",
+						"exportQuality": 0.8,
+						"imageSpriteId": 7821480,
+						"collisionPoly": {
+							"points": [
+								0.14074074074074075,
+								0.09947643979057591,
+								0.5,
+								0.005235602094240838,
+								0.8296296296296296,
+								0.11518324607329843,
+								0.9111111111111111,
+								0.5,
+								0.8592592592592593,
+								0.900523560209424,
+								0.5,
+								0.8900523560209425,
+								0.21481481481481482,
+								0.8429319371727748,
+								0.05185185185185185,
+								0.5
+							]
+						},
+						"useCollisionPoly": true,
+						"duration": 1
+					}
+				],
+				"sid": 280096236292040,
+				"name": "jump",
+				"isLooping": false,
+				"isPingPong": false,
+				"repeatCount": 1,
+				"repeatTo": 0,
+				"speed": 5
+			}
+		],
+		"subfolders": [
+			{
+				"items": [],
+				"subfolders": [],
+				"name": "New folder"
+			}
+		]
+	}
+}

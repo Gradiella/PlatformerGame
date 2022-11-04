@@ -1,7 +1,7 @@
 {
-	"name": "Sprite2",
+	"name": "Cacto",
 	"plugin-id": "Sprite",
-	"sid": 170557828943842,
+	"sid": 479897346526995,
 	"isGlobal": false,
 	"instanceVariables": [],
 	"behaviorTypes": [],
@@ -18,33 +18,13 @@
 						"originalSource": "",
 						"exportFormat": "lossless",
 						"exportQuality": 0.8,
-						"imageSpriteId": 2925135,
-						"collisionPoly": {
-							"points": [
-								0.0234375,
-								0.0234375,
-								0.5,
-								0.21875,
-								0.7578125,
-								0.234375,
-								0.6484375,
-								0.5,
-								0.5546875,
-								0.5546875,
-								0.5,
-								0.59375,
-								0,
-								0.9921875,
-								0,
-								0.5
-							]
-						},
+						"imageSpriteId": 7428844,
 						"useCollisionPoly": true,
 						"duration": 1
 					}
 				],
-				"sid": 325753644752474,
-				"name": "Animation 1",
+				"sid": 391516674958752,
+				"name": "Default",
 				"isLooping": false,
 				"isPingPong": false,
 				"repeatCount": 1,
